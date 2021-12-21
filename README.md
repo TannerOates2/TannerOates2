@@ -37,10 +37,7 @@
 <br>
 <h2 <b> My Activity this Week:</b></h2>
 
-<p align="left>
-  <img src="https://wakatime.com/share/@toate/20a3f80b-88aa-4365-85f7-5ac7e5cfca6b.svg">
-</p>
-
+<img src="https://wakatime.com/share/@toate/20a3f80b-88aa-4365-85f7-5ac7e5cfca6b.svg" height="350">
 <br>
 <h2 <b>My Websites:</b></h2>
 
