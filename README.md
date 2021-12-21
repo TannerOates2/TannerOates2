@@ -36,10 +36,11 @@
 
 <br>
 <h2 <b> My Activity this Week:</b></h2>
-<!--START_SECTION:waka-->
 
+<p align="left>
+  <img src="https://wakatime.com/share/@toate/20a3f80b-88aa-4365-85f7-5ac7e5cfca6b.svg">
+</p>
 
-<!--END_SECTION:waka-->
 <br>
 <h2 <b>My Websites:</b></h2>
 
