@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Tanner+Oates....;Nice+to+meet+you!&center=true&size=30&color=0077b5">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Tanner+Oates....;Nice+to+meet+you!&center=true&size=325&color=0077b5">
   </a>
 </h1>
 <a href="https://www.linkedin.com/in/tanner-oates"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
