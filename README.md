@@ -14,7 +14,7 @@
 <p align="left"> 
 - 🏫 Student at CSU Chico.<br>
 - 💻 Major is Computer Science.<br>
-- 🌱 I'm currently learning ReactJs and NodeJS.<br> 
+- 🌱 I'm currently learning ReactJs, NodeJS, and ExpressJs.<br> 
 - 📧 My email is tgoates@mail.csuchico.edu.
 <br>
 <br>
