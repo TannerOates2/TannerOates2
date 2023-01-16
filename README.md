@@ -53,7 +53,8 @@ https://tic-tac-toe-465.herokuapp.com/
 <h2 <b> My Stats:</b></h2>
 
 <p align = "left">
-[![Tanner's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanneroates2)](https://github.com/tanneroates2/github-readme-stats)
+ 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tanneroates2&repo=github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=TannerOates2&&show_icons=true&title_color=000000&icon_color=0077b5&text_color=808080&bg_color=ffffff"></p>
 <br></br>
 
