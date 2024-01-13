@@ -42,9 +42,7 @@
 <br>
 <h2 <b>My Websites:</b></h2>
 
-https://www.ptolemy.tech
 
-https://tic-tac-toe-465.herokuapp.com/
 
 
 <br>
